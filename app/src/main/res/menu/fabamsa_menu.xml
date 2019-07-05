@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bch"
+        android:orderInCategory="100"
+        android:title="@string/BCH" />
+    <item
+        android:id="@+id/mls"
+        android:orderInCategory="200"
+        android:title="@string/MLS" />
+    <item
+        android:id="@+id/ana"
+        android:orderInCategory="300"
+        android:title="@string/ANA" />
+    <item
+        android:id="@+id/hbt"
+        android:orderInCategory="400"
+        android:title="@string/HBT" />
+    <item
+        android:id="@+id/nsg"
+        android:orderInCategory="500"
+        android:title="@string/NSG" />
+    <item
+        android:id="@+id/psg"
+        android:orderInCategory="600"
+        android:title="@string/PSG" />
+</menu>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/age"
+        android:orderInCategory="100"
+        android:title="@string/AGE" />
+    <item
+        android:id="@+id/cse"
+        android:orderInCategory="200"
+        android:title="@string/CSE" />
+    <item
+        android:id="@+id/che"
+        android:orderInCategory="300"
+        android:title="@string/CHE" />
+    <item
+        android:id="@+id/cve"
+        android:orderInCategory="400"
+        android:title="@string/CVE" />
+    <item
+        android:id="@+id/eee"
+        android:orderInCategory="500"
+        android:title="@string/EEE" />
+    <item
+        android:id="@+id/fse"
+        android:orderInCategory="600"
+        android:title="@string/FSE" />
+    <item
+        android:id="@+id/mee"
+        android:orderInCategory="700"
+        android:title="@string/MEE" />
+</menu>

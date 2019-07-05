@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/faculty"
+        android:orderInCategory="100"
+        android:title="Faculty"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/odl"
+        android:orderInCategory="200"
+        android:title="ODL"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/postgraduate"
+        android:orderInCategory="300"
+        android:title="Postgraduate"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/predegree"
+        android:orderInCategory="400"
+        android:title="Predegree"
+        app:showAsAction="never" />
+
+
+</menu>

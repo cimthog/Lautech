@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">LAUTECH</string>
+    <string name="splash_screen_image">lautech_logo</string>
+    <string name="action_theme">Change Theme</string>
+    <string name="vc_image">VC icon</string>
+    <string name="welcomeTxt">WELCOME</string>
+    <string name="txtInfo">textView</string>
+    <string-array name="faculty">
+        <item>FACULTY OF ENGINEERING</item>
+        <item>FACULTY OF PURE AND APPLIED SCIENCES</item>
+        <item>FACULTY OF AGRICULTURAL SCIENCES</item>
+        <item>FACULTY OF MANAGEMENT SCIENCES</item>
+        <item>FACULTY OF BASIC MEDICAL SCIENCES</item>
+        <item>FACULTY OF CLINICAL SCIENCES</item>
+        <item>FACULTY OF ENVIRONMENTAL SCIENCES</item>
+    </string-array>
+    <string name="AGE">Agricultural Engineering </string>
+    <string name="CSE">Computer Science And Engineering </string>
+    <string name="CHE">Chemical Engineering </string>
+    <string name="CVE">Civil Engineering </string>
+    <string name="EEE">Electronic And Electrical Engineering </string>
+    <string name="FSE">Food Science And Engineering </string>
+    <string name="MEE">Mechanical Engineering </string>
+    <string name="PAB">Pure And Applied Biology </string>
+    <string name="PAC"> Pure And Applied Chemistry </string>
+    <string name="PAP">Pure And Applied Physics </string>
+    <string name="PAM">Pure And Applied Mathematics </string>
+    <string name="ESC">Earth Science </string>
+    <string name="GNS">General Studies </string>
+    <string name="SLT"> Science And Laboratory Technology </string>
+    <string name="MGA">Management And Accounting </string>
+    <string name="MKT">Marketing </string>
+    <string name="TMG">Transport Management </string>
+    <string name="ARC">Architecture </string>
+    <string name="FAA">Fine And Applied Arts </string>
+    <string name="URP">Urban And Regional Planning </string>
+    <string name="APH">Animal Protection And Health </string>
+    <string name="ANB">Animal Nutrition And Bio-Technology </string>
+    <string name="AERD">Agricultural Extension And Rural Development </string>
+    <string name="AEC">Agricultural Economics </string>
+    <string name="CEP">Crop And Environmental Protection </string>
+    <string name="CPS">Crop Protection And Soil Science </string>
+    <string name="ATH">Anaesthesia </string>
+    <string name="MBBS">Medicine And Surgery </string>
+    <string name="RAD">Radiology </string>
+    <string name="PAED">Paediatrics </string>
+    <string name="PSY">Psychiatry </string>
+    <string name="BCH">Bio-Chemistry </string>
+    <string name="CMP">Chemical Pathology </string>
+    <string name="HBT">Haematology And Blood Transfusion </string>
+    <string name="MLS">Medical Science Laboratory </string>
+    <string name="ANA">Morbid Anatomy </string>
+    <string name="NSG">Nursing </string>
+    <string name="PSG">Physiology </string>
+    <string name="text1">\t\t It is my pleasure to welcome all returning,
+        fresh and prospective students to Ladoke Akintola University of Technology (LAUTECH), Ogbomoso.
+        We have more than 25,000 undergraduate and postgraduate students with 3,000 dynamic and highly dedicated staff and faculty members.</string>
+    <string name="text2"> \t\t Programmes offered at the University attract professional recognitions through their emphasis on close working links with industry and other professions.
+        Our undergraduate and postgraduate programmes emphasize the importance of a solid base of broad skills and knowledge through a carefully designed core curriculum,
+        which was conceived with a focus on the needs and requirements of Nigerian society and her labour market.
+        The University\'s teaching and research are innovatively based on the smart use of emerging technologies.\n\n
+        \t\t The University values the development of personal and entrepreneur leaderships in every student.
+        The core values of excellence, integrity and service lay the groundwork for the development of future community, regional, national and international leaders.\n\n
+
+        \t\t Your visit to our website will give many unique opportunities LAUTECH offers,
+        but there is no substitute for visiting our environmentally friendly campus and meeting the friendly,
+        dedicated faculty and staff. I hope you will enjoy your visit.
+            \n\n Prof. A.S. Gbadegesin
+    </string>
+</resources>

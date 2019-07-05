@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ath"
+        android:orderInCategory="100"
+        android:title="@string/ATH" />
+    <item
+        android:id="@+id/mbbs"
+        android:orderInCategory="200"
+        android:title="@string/MBBS" />
+    <item
+        android:id="@+id/rad"
+        android:orderInCategory="300"
+        android:title="@string/RAD" />
+    <item
+        android:id="@+id/paed"
+        android:orderInCategory="400"
+        android:title="@string/PAED" />
+    <item
+        android:id="@+id/psy"
+        android:orderInCategory="500"
+        android:title="@string/PSY" />
+</menu>

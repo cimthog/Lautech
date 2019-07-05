@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mga"
+        android:orderInCategory="100"
+        android:title="@string/MGA" />
+    <item
+        android:id="@+id/tmg"
+        android:orderInCategory="200"
+        android:title="@string/TMG" />
+    <item
+        android:id="@+id/mkt"
+        android:orderInCategory="300"
+        android:title="@string/MKT" />
+</menu>

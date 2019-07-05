@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/aec"
+        android:orderInCategory="100"
+        android:title="@string/AEC" />
+    <item
+        android:id="@+id/aerd"
+        android:orderInCategory="200"
+        android:title="@string/AERD" />
+    <item
+        android:id="@+id/aph"
+        android:orderInCategory="300"
+        android:title="@string/APH" />
+    <item
+        android:id="@+id/anb"
+        android:orderInCategory="400"
+        android:title="@string/ANB" />
+    <item
+        android:id="@+id/cps"
+        android:orderInCategory="500"
+        android:title="@string/CPS" />
+    <item
+        android:id="@+id/cep"
+        android:orderInCategory="600"
+        android:title="@string/CEP" />
+</menu>

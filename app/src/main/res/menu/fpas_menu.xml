@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pab"
+        android:orderInCategory="100"
+        android:title="@string/PAB" />
+    <item
+        android:id="@+id/pac"
+        android:orderInCategory="200"
+        android:title="@string/PAC" />
+    <item
+        android:id="@+id/pam"
+        android:orderInCategory="300"
+        android:title="@string/PAM" />
+    <item
+        android:id="@+id/pap"
+        android:orderInCategory="400"
+        android:title="@string/PAP" />
+    <item
+        android:id="@+id/esc"
+        android:orderInCategory="500"
+        android:title="@string/ESC" />
+    <item
+        android:id="@+id/gns"
+        android:orderInCategory="600"
+        android:title="@string/GNS" />
+    <item
+        android:id="@+id/slt"
+        android:orderInCategory="700"
+        android:title="@string/SLT" />
+
+</menu>
